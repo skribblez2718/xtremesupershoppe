@@ -62,4 +62,5 @@ The interact.sh script simulates an admin user viewing the web page. This is pro
 ## Resources
 [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website)
+[Django ProShop](https://github.com/divanov11/proshop_django)
 [PayPal Developer](https://developer.paypal.com)
