@@ -1,5 +1,5 @@
 # xtremesupershoppe
-xtremesupershoppe is a vulnerable web application that can be solved with code analysis or blackbox methods. It is heavily influenced by Denis Levy and Brad Traversy's Udemy course [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website) and a real life pentest engagements. The goal of the challenge is obtain admin privileges and capture the flag.
+xtremesupershoppe is a vulnerable web application that can be solved with code analysis or blackbox methods. It is heavily influenced by Denis Ivy and Brad Traversy's Udemy course [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website) and a real life pentest engagements. The goal of the challenge is obtain admin privileges and capture the flag.
 
 ***IMPORTANT***: Currently deploying this application may or may not require some troubleshooting. It is on the TO DO to fix. The repository is still well suited for code analysis; however, I recommend getting the application up for learning purposes. Also, the exploit is very fun IMO! Finally, I originally created this application 2+ years ago. There may be vulnerabilities in this app that didn't exist or were unknown at it's creation time. Cpuld be a fun rabbit hole for the daring.
 
