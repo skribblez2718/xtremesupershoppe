@@ -1,0 +1,16 @@
+asgiref
+Django
+django-cors-headers
+django-csp
+djangorestframework
+djangorestframework-simplejwt
+gunicorn
+Pillow
+psycopg2-binary
+PyJWT
+pytz
+sqlparse
+whitenoise
+boto3
+django-storages
+selenium
