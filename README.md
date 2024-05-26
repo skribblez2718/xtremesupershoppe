@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # xtremesupershoppe
 xtremesupershoppe is a vulnerable web application that can be solved with code analysis or blackbox methods. It is heavily influenced by Denis Levy and Brad Traversy's Udemy course [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website) and a real life pentest engagements. The goal of the challenge is obtain admin privileges and capture the flag.
 
@@ -64,7 +63,3 @@ The interact.sh script simulates an admin user viewing the web page. This is pro
 [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website)
 [PayPal Developer](https://developer.paypal.com)
-=======
-# xtremesupershoppe (Coming Soon)
-xtremesupershoppe is a vulnerable web application that can be solved with code analysis or blackbox methods. It is heavily influenced by Denis Levy and Brad Traversy's Udemy course and a real life pentest engagement
->>>>>>> 28849f5a4c6f287045e7c18d0feb4b68ef8bb112
